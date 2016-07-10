@@ -179,7 +179,7 @@ footer { position: absolute !important; width: 100%; }
 .row { margin-bottom: 15px;}
 .panel-title i { position: absolute;right: 11px;top: 13px;z-index: 9;cursor: pointer; }
 .active .panel-title i {color: #FFF;}
-
+.aboutRow{ min-height: 417px;}
 
 
 #accordion .panel-title { position: relative;}
