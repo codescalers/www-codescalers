@@ -4,7 +4,7 @@ title = "our_services"
 
 box1_icon = "flag"
 box1_title = "Our Vision"
-box1_disc = "Our dream has been focused on building and operating the perfect datacenter &amp; cloud architecture. To make this dream reality, we have worked together with a great team of people and have created some unique technology and firmly believe that we can call ourselves the best cloud experts in the world. What makes us so different is that we think out of the box and try to create groundbreaking disruptive technologies. We hope to make IT as easy to use, reliable and scalable as electricity."
+box1_disc = "Our dream has been focused on building and operating the perfect datacenter cloud architecture. To make this dream reality, we have worked together with a great team of people and have created some unique technology and firmly believe that we can call ourselves the best cloud experts in the world. What makes us so different is that we think out of the box and try to create groundbreaking disruptive technologies. We hope to make IT as easy to use, reliable and scalable as electricity."
 
 box2_icon = "group"
 box2_title = "The Team"
