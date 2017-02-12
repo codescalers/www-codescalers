@@ -138,11 +138,11 @@ icon_pic = "/images/social1.png"
       </div>
     </div>
   </div>
-   <div id="panel1" class="panel panel-default">
+<!--    <div id="panel1" class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseFront"> Front end UI/UX Developer </a> <i title="Copy this job url to clipboard" class="clipboard fa fa-clipboard clip5"   ><span class="copied">Copied</span></i></h4>
-    </div>
-    <div id="collapseFront" class="panel-collapse collapse">
+    </div> -->
+<!--     <div id="collapseFront" class="panel-collapse collapse">
       <div class="panel-body">
         <p>The Front end UI/UX Developer will work with the existing team on creating new cutting edge software systems through the whole software life cycles, starting from early research and prototyping using a variety of programming language and open-source frameworks.</p>
         <p>The team is responsible for the perfect design of new products, seamless execution of upgrades, documentation and installation procedures.</p>
@@ -185,8 +185,8 @@ icon_pic = "/images/social1.png"
         <p>Feel free to apply with a cover letter and CV to <a href="mailto:careers@codescalers.com"> careers@codescalers.com </a></p>
       </div>
     </div>
-  </div>
-  <div id="panel5" class="panel panel-default">
+  </div> -->
+<!--   <div id="panel5" class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseSystem"> System Engineer </a> <i title="Copy this job url to clipboard" class="clipboard fa fa-clipboard clip"   ><span class="copied">Copied</span></i></h4>
     </div>
@@ -231,7 +231,7 @@ icon_pic = "/images/social1.png"
         <p>Feel free to apply with a cover letter and CV to <a href="mailto:careers@codescalers.com"> careers@codescalers.com </a></p>
       </div>
     </div>
-  </div>
+  </div> -->
 
 
 

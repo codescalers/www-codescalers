@@ -1,11 +1,11 @@
-http://www.codescalers.com:8031, http://codescalers.com:8031 {
+http://gig-codescalers.aydo.com:8031, http://www.gig-codescalers.aydo.com:8031 {
     bind 0.0.0.0
     gzip
-    root www.codescalers.com
+    root www.codescalers.com/en
     git {
        repo git@github.com:codescalers/www-codescalers.git
        interval 300
-       branch production
+       branch master
        key ../keys/id_rsa
        path ../..
        then hugo -s www.codescalers.com
