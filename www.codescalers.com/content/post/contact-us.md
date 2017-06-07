@@ -2,8 +2,8 @@
 #Don't remove title!
 title = "Contact us"
 page_title = "Contact us"
-address1_country = "Dubai:"
-address1_disc = "Saif Desk Q1-07-045/B, sharjah - UAE, P.O. Box 514609"
+address1_country = "Sharjah:"
+address1_disc = "Saif Desk Q1-07-045/B, Sharjah - UAE, P.O. Box 514609"
 address1_email1 = "info@codescalers.com"
 address1_email2 = "careers@codescalers.com"
 address1_map = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3606.242368979064!2d55.495917051050874!3d25.329646832449583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5f5fa143b07f9%3A0x2f291f3a2621ebc9!2sSAIF+Zone+Headquarter!5e0!3m2!1sen!2seg!4v1496825979436"
