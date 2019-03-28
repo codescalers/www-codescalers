@@ -1,12 +1,12 @@
-http://www.codescalers.com:8031, http://codescalers.com:8031 {
+:2015 {
     bind 0.0.0.0
     gzip
     root www.codescalers.com/en
     git {
-       repo git@github.com:codescalers/www-codescalers.git
-       interval 300
+       repo https://github.com/codescalers/www-codescalers.git
+       hook /webhook "zU3687$aJEb6"
+       key ~/.ssh/id_rsa
        branch production
-       key ../keys/id_rsa
        path ../..
        then hugo -s www.codescalers.com
     }
