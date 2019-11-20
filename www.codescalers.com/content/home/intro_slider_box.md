@@ -5,7 +5,7 @@ title = "intro_slider_box"
 slider1_title1 = "Welcome to CodeScalers"
 slider1_title2 = "International Software Development"
 slider1_title3 = "Specialised in Cloud Computing Projects"
-slider1_title4 = "Offices in Cairo and El Gouna"
+
 
 slider2_title1 = "Changing the way to deliver IT"
 slider2_title2 = "We rechallenge existing technologies"
