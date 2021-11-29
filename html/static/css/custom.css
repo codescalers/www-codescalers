@@ -149,7 +149,7 @@ background-repeat: repeat-x; -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 25
 .admin .navbar { min-height: 39px; }
 #mainMenu + section {}
 .aboutPic img { border: 3px solid #ecf0f1 }
-.responsive-slider-parallax .slides-container { background-image: url(../images/slide3.jpg)!important; background-position-y: -30px !important; background-size: 1500px auto !important; }
+.responsive-slider-parallax .slides-container { background-image: url(../images/slide2.jpg)!important; background-position: cover !important; }
 .caption h3 { margin-top: 1px; }
 .copyMargin { padding-bottom: 10px; }
 .thumbnail.info-thumbnail-link.background-lead-light { margin-bottom: 10px; }
