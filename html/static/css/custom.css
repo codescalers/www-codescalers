@@ -184,3 +184,8 @@ footer { position: absolute !important; width: 100%; }
 
 #accordion .panel-title { position: relative;}
 .copied {float: left;margin: 2px 8px 0 0px;font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;font-size: 12px; display: none;}
+
+p {
+    font-size: 16px;
+  }
+  
