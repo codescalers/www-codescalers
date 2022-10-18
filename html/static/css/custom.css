@@ -172,7 +172,7 @@ footer .col-md-5 + .row { width: 100%; }
 .social1 { margin: 8px 10px 0 0; float: left; }
 .paddingR35 { padding-right: 35px; }
 html {position: relative;min-height: 100%;}
-body {margin-bottom: 407px;}
+/* body {margin-bottom: 407px;} */
 footer { position: absolute !important; width: 100%; }
 .navbar.navbar-default.navbar-fixed-top { position: relative;}
 .responsive-slider-parallax { margin-top: 0 !important;}

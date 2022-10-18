@@ -795,6 +795,16 @@ h3 {
 .info-thumbnail.padding1 {
   padding: 1px;
 }
+.extra_margin{
+  padding: 30px 0px;
+
+}
+.extra_space{
+  margin: 60px 0px;
+}
+.footer_about{
+  margin-top: 50px;
+}
 .info-thumbnail .service {
   opacity: 0;
   position: absolute;
